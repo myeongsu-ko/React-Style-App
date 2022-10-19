@@ -38,7 +38,7 @@ const Header = () => {
       <NavStyle>
         <LogoStyle>🤍</LogoStyle>
         <MenuStyle>
-          <li>호스트가 되어보세요.</li>
+          <li>호스트가 되어보세요.123</li>
           <li>도움말</li>
           <li>회원가입</li>
           <li>로그인</li>
